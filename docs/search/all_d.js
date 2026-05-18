@@ -402,7 +402,7 @@ var searchData=
   ['mainpathpoints_399',['MainPathPoints',['../d0/dab/classVPiece.html#abe6acc56fd08a258b4f1f826735ff415',1,'VPiece']]],
   ['mainpoints_400',['mainPoints',['../da/dde/classVisToolCubicBezierPath.html#a4ed633fb049dcdaabdefb9798e94be5c',1,'VisToolCubicBezierPath']]],
   ['mainshape_401',['MainShape',['../da/d4e/classVGrainlineItem.html#a6a16928b23b224c85aeba73c1f3edd2d',1,'VGrainlineItem']]],
-  ['mainwindow_402',['mainwindow',['../da/d04/classMApplication.html#ad5ee659cde8c59be6ce750b434a3252c',1,'MApplication::MainWindow()'],['../d6/d1a/classMainWindow.html',1,'MainWindow'],['../d6/d1a/classMainWindow.html#a996c5a2b6f77944776856f08ec30858d',1,'MainWindow::MainWindow()'],['../db/dda/classVAbstractApplication.html#a09295c357a27ac2abbc72bceb293d8f4',1,'VAbstractApplication::mainWindow']]],
+  ['mainwindow_402',['mainwindow',['../d6/d1a/classMainWindow.html#a996c5a2b6f77944776856f08ec30858d',1,'MainWindow::MainWindow()'],['../db/dda/classVAbstractApplication.html#a09295c357a27ac2abbc72bceb293d8f4',1,'VAbstractApplication::mainWindow'],['../da/d04/classMApplication.html#ad5ee659cde8c59be6ce750b434a3252c',1,'MApplication::MainWindow()'],['../d6/d1a/classMainWindow.html',1,'MainWindow']]],
   ['mainwindow_2ecpp_403',['mainwindow.cpp',['../d8/dd9/mainwindow_8cpp.html',1,'']]],
   ['mainwindow_2eh_404',['mainwindow.h',['../d9/d53/mainwindow_8h.html',1,'']]],
   ['mainwindows_405',['mainwindows',['../da/d04/classMApplication.html#a709ebacdd40826a34adefddf0db6721c',1,'MApplication::MainWindows()'],['../da/d04/classMApplication.html#ae7d4a424a5c9764d4d5ac0338fc7a2c9',1,'MApplication::mainWindows']]],
