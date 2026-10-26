@@ -2,7 +2,7 @@ var searchData=
 [
   ['face_5ft_0',['face_t',['../de/d57/delaunay_8cpp.html#a3d09a3cfe3c32340c5b4f1f82d37d8a8',1,'delaunay.cpp']]],
   ['facfun_5ftype_1',['facfun_type',['../da/d92/namespaceqmu.html#a7045fd256c04b2e6e01be1f8f6d517a4',1,'qmu']]],
-  ['formatsvector_2',['formatsvector',['../da/d20/classDialogLayoutSettings.html#a7ee1945646da1d8ed6b65bf0767b122f',1,'DialogLayoutSettings::FormatsVector'],['../d1/dbb/classVAbstractLayoutDialog.html#a5533e41817b10ba43a248b2eb1ed2ce8',1,'VAbstractLayoutDialog::FormatsVector']]],
+  ['formatsvector_2',['FormatsVector',['../da/d20/classDialogLayoutSettings.html#a7ee1945646da1d8ed6b65bf0767b122f',1,'DialogLayoutSettings::FormatsVector'],['../d1/dbb/classVAbstractLayoutDialog.html#a5533e41817b10ba43a248b2eb1ed2ce8',1,'VAbstractLayoutDialog::FormatsVector']]],
   ['fun_5ftype0_3',['fun_type0',['../da/d92/namespaceqmu.html#a856810e705b6638e2e224df1a251fa16',1,'qmu']]],
   ['fun_5ftype1_4',['fun_type1',['../da/d92/namespaceqmu.html#af1467daf91600a063fe199df73e49520',1,'qmu']]],
   ['fun_5ftype10_5',['fun_type10',['../da/d92/namespaceqmu.html#a50b8452865cb745a9da2f4aa147469ca',1,'qmu']]],
